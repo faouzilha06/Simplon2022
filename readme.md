@@ -1,4 +1,4 @@
 # titre
 
-*Fouta Saint Barth*
+**Fouta Saint Barth**
 _serviette_
