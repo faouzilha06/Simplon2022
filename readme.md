@@ -1,4 +1,4 @@
 # titre
 
 *Fouta Saint Barth*
-♯serviette
+_serviette_
