@@ -1,0 +1,75 @@
+h1 {
+    color: blue;
+    
+}
+
+#banniereH
+{
+    width: 90%;
+    margin-left: 5%;
+}
+
+#imgban
+{
+    width: 100%;
+    margin: auto;
+}
+
+h2 
+{
+    color: darkmagenta;
+}
+p
+{
+    font-size: 1.em;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+}
+.Fouta 
+{
+    color: indigo;
+}
+
+#banniereB
+{
+    width: 80%;
+    margin: auto;
+}
+#imgban
+{
+    width: 100%;
+    margin: auto;
+}
+#photoserviette
+{
+    width: 30%;
+    margin-left: 65%;
+    width: 40%;
+    margin-left: 65%;
+}
+#photopareo
+{
+    width: 60%;
+    margin-left: 3%; 
+}
+#photomandala
+{
+    width: auto;
+    height: auto;
+    padding: 60px;
+    margin-bottom: 40px;
+    
+}
+#photocanape
+{
+    width: 60%;
+    margin-left: 3%;
+    width: 60%;
+    margin-left: 3%;
+}
+#photonap
+{
+    width: 60%;
+    margin-left: 33.5%;
+}
